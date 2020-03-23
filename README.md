@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/ReactJS-v16.13.1-Blue)
 ![](https://img.shields.io/badge/OmniStack-v11.0-Aqua)
 
-## {c:red}Be The Hero!{/c}
+{c:red}Be The Hero!{/c}
 
 ### About OmniStack
 OmniStack Week is an one week event with the propouse of improve programing skills. With a pratical aproach, we built a web application with Node.js on backend, ReactJS on frontend and React Native on mobile. The OmniStack Week is an event promoted by [Rocketseat](https://rocketseat.com.br/).
