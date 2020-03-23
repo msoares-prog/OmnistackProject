@@ -7,7 +7,7 @@
 ## Be The Hero!
 
 ### About OmniStack
-OmniStack Week is an one week event with the propouse of improve programing skills. With a pratical aproach, we buil a web application with Node.js on backend, ReactJS on frontend and React Native on mobile. The OmniStack Week is promoted by [Rocketseat](https://rocketseat.com.br/)
+OmniStack Week is an one week event with the propouse of improve programing skills. With a pratical aproach, we buil a web application with Node.js on backend, ReactJS on frontend and React Native on mobile. The OmniStack Week is an event promoted by [Rocketseat](https://rocketseat.com.br/).
 
 ### Description
 
