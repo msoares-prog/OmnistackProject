@@ -11,6 +11,14 @@ OmniStack Week is an one week event with the propouse of improve programing skil
 
 ### Description
 
+### Tecnologies
+This project was developed with the following technologies:
+
+* [NodeJS](https://nodejs.org/en/);
+* [React](https://reactjs.org/);
+* [React Native](https://reactnative.dev/);
+* [Expo](https://expo.io/)
+
 ### Download
 
 Feel free to Download the project:
