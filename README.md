@@ -33,7 +33,7 @@ git clone git@github.com:msoares-prog/OmnistackProject.git
 
 ### Using the Project
 
-#### License
+### License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/msoares-prog/OmnistackProject/blob/master/LICENSE) for details.
 
