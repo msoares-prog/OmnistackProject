@@ -1,6 +1,4 @@
 # Omnistack Project
- [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=&uri=)
- 
 ![](https://img.shields.io/badge/ReactNative-v0.61-blueviolet)
 ![](https://img.shields.io/badge/NodeJS-v12.16.1-orange)
 ![](https://img.shields.io/badge/ReactJS-v16.13.1-Blue)
