@@ -1,5 +1,3 @@
-# Omnistack Project
-
 ![](.github/logo3x.png)
 
 ![](https://img.shields.io/badge/Omnistack-v11.0-red)
