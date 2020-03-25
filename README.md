@@ -12,7 +12,11 @@ OmniStack Week is an one week event with the propouse of improve programing skil
 
 ### Description
 
-### Tecnologies
+The aims of the project is to connect people who are willing to help NGO (Non-governmental organization), and the cases of the NGO that needs to be helped.
+
+![](/.github/login-page.png)
+
+### Technologies
 This project was developed with the following technologies:
 
 * [NodeJS](https://nodejs.org/en/);
