@@ -29,6 +29,29 @@ git clone git@github.com:msoares-prog/OmnistackProject.git
 ```
 
 ### Using the Project
+Tools that i used to test the project:
+* [NPM](https://www.npmjs.com/) - Backend / Frontend;
+* [Insomnia](https://insomnia.rest/) - Backend;
+
+#### Frontend
+To test the Frontend "run npm", make sure you have the "node_modules" package inside the frontend folder.
+```
+npm start
+```
+Browser:
+```
+http://localhost:3333
+```
+
+#### Backend
+To test the Backtend "run npm", make sure you have the "node_modules" package inside the backend folder.
+```
+npm start
+```
+Then:
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=&uri=)
+
+### -Exclusive for Mobile-
 
 ### License
 
