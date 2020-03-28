@@ -54,23 +54,9 @@ Then:
 
 ### -Exclusive for Mobile-
 
-### How to Contribute
-1. Make a fork;
-2. Create a branch with your changes 
+### Layout 
 
-```
-git checkout -b my-changes
-```
-3. Commit your changes
-
-```
-git commit -m "message"
-```
-4. Push your branch
-
-```
-git push origin my-changes
-```
+To access the layout, you can use [Figma](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1).
 
 ### License
 
