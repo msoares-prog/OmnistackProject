@@ -44,7 +44,7 @@ http://localhost:3333
 ```
 
 ### Backend
-To test the Backtend "run npm", make sure you have the "node_modules" package inside the backend folder.
+To test the Backtend ```run npm```, make sure you have the ```node_modules``` package inside the backend folder.
 ```
 npm start
 ```
