@@ -65,7 +65,6 @@ git checkout -b my-changes
 
 ```
 git commit -m "message"
-
 ```
 4. Push your branch
 
