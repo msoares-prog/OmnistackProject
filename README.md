@@ -54,6 +54,25 @@ Then:
 
 ### -Exclusive for Mobile-
 
+### How to Contribute
+1. Make a fork;
+2. Create a branch with your changes 
+
+```
+git checkout -b my-changes
+```
+3. Commit your changes
+
+```
+git commit -m "message"
+
+```
+4. Push your branch
+
+```
+git push origin my-changes
+```
+
 ### License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/msoares-prog/OmnistackProject/blob/master/LICENSE) for details.
