@@ -34,7 +34,7 @@ Tools that i used to test the project:
 * [Insomnia](https://insomnia.rest/) - Backend;
 
 ### Frontend
-To test the Frontend "run npm", make sure you have the "node_modules" package inside the frontend folder.
+To test the Frontend ```run npm```, make sure you have the ```node_modules``` package inside the frontend folder.
 ```
 npm start
 ```
