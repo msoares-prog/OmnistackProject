@@ -57,16 +57,17 @@ Tools that I used to test the app:
 
 * [Expo](https://expo.io/);
 * [App Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR);
-* [Andróid Studio](https://developer.android.com/studio)
+* [Andróid Studio](https://developer.android.com/studio);
+* [Expo Snack](https://snack.expo.io/)
 
-#### Mobile phone
+### Mobile phone
 To test the app on a mobile device, open your terminal and  ```run```:
 ```
 yarn start
 ```
 This action will genarete a QRcode, scan your code and open with [App Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR).
 
-#### Emulator
+### Emulator
 First you need download the expo client
 ```
 expo client:install:android
@@ -76,6 +77,14 @@ And then, to test the app on an emulator, open your terminal and  ```run```:
 yarn start
 ```
 This action will open a page on your browser, go head and click 'run on Android device/emulator'.
+
+### Expo Snack
+You can also ```run``` on [expo Snack](https://snack.expo.io/): 
+
+1. Open the web page of the expo snack;
+2. Load the folder of the project;
+3. Select the device;
+4. Click on ```run```.
 
 ### Layout 
 
