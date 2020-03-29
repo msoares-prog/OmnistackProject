@@ -81,7 +81,7 @@ This action will open a page on your browser, go head and click 'run on Android 
 ### Expo Snack
 You can also ```run``` on [expo Snack](https://snack.expo.io/): 
 
-1. Open the web page of the expo snack;
+1. Open the web page of expo snack;
 2. Load the folder of the project;
 3. Select the device;
 4. Click on ```run```.
